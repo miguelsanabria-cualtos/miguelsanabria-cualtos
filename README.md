@@ -4,6 +4,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
+
 ### A passionate Full Stack developer from Jalisco, México &#127474;&#127485;
 
 <a target="_blank" align="center">
