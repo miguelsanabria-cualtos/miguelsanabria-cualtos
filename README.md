@@ -54,4 +54,4 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-MiguelSanabria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-sanabria-valdez-5a726b148)](https://www.linkedin.com/in/miguel-angel-sanabria-valdez-5a726b148)
 
 ![Miguel Sanabria's github stats](https://github-readme-stats.vercel.app/api?username=miguelsanabria-cualtos&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria-cualtos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria-cualtos&layout=compact)](https://github.com/miguelsanabria-cualto/github-readme-stats)
