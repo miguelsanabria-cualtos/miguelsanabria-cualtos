@@ -13,7 +13,7 @@
 
 ### A passionate Full Stack & IoT Developer from Jalisco, México 🇲🇽
 
-<img align="right" height="270" width="350" alt="Developer Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
 
 - 🎓 Pursuing a **PhD in Software Sciences** at the *University of Xalapa*
 - 🌱 **2026 Focus:** *Greenhouse 4.0* — Smart Agriculture & Internet of Things (IoT)
