@@ -12,7 +12,7 @@
 
 ### A passionate Full Stack developer from Jalisco, México 🇲🇽
 
-<img align="right" height="280" width="380" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" height="280" width="360" alt="Developer Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 📚 I attend the University of Xalapa for a **PhD in Software Sciences**
 - 💻 I’m currently learning **Django** & **Docker**
