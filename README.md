@@ -13,22 +13,29 @@
 
 ### A passionate Full Stack & IoT Developer from Jalisco, México 🇲🇽
 
-<img align="right" height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
-
-- 🎓 Pursuing a **PhD in Software Sciences** at the *University of Xalapa*
-- 🌱 **2026 Focus:** *Greenhouse 4.0* — Smart Agriculture & Internet of Things (IoT)
-- 💻 Deepening expertise in **Django**, **Docker**, and scalable architectures
-- 👨‍👩‍👧‍👦 Balancing research, clean code, good coffee, and family life in Los Altos de Jalisco
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🎓 Pursuing a <strong>PhD in Software Sciences</strong> at the <em>University of Xalapa</em></li>
+        <li>🌱 <strong>2026 Focus:</strong> <em>Greenhouse 4.0</em> — Smart Agriculture & Internet of Things (IoT)</li>
+        <li>💻 Deepening expertise in <strong>Django</strong>, <strong>Docker</strong>, and scalable architectures</li>
+        <li>👨‍👩‍👧‍👦 Balancing research, clean code, good coffee, and family life in Los Altos de Jalisco</li>
+      </ul>
+      <h4>🔬 Current Focus & Research Lines</h4>
+      <ul>
+        <li><strong>🌱 Greenhouse 4.0 (IoT & Telemetry):</strong> Sensor networks, microcontrollers, and real-time data monitoring for protected agriculture.</li>
+        <li><strong>🎓 Software Sciences Research:</strong> Applied software engineering, cyber-physical systems, and maintainable architectures.</li>
+        <li><strong>⚙️ Full Stack & DevOps:</strong> Building containerized web platforms with Python/Django, Laravel, and cloud infrastructure.</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img width="100%" alt="Coding GIF" src="https://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif" />
+    </td>
+  </tr>
+</table>
 
 <br>
-<img align="right" height="260" width="360" alt="Coding GIF" src="https://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif">
-### 🔬 Current Focus & Research Lines
-
-- **🌱 Greenhouse 4.0 (IoT & Telemetry):** Sensor networks, microcontrollers, and real-time data monitoring for protected agriculture.
-- **🎓 Software Sciences Research:** Applied software engineering, cyber-physical systems, and maintainable architectures.
-- **⚙️ Full Stack & DevOps:** Building containerized web platforms with Python/Django, Laravel, and cloud infrastructure.
-
-<br clear="right"/>
 
 ---
 
