@@ -1,60 +1,73 @@
-## I'm a Husband, Father, Developer, and Student !! 
+## I'm a Husband, Father, Developer, and Student !! 🚀
+
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+  </picture>
 </div>
+
 <br>
 
-### A passionate Full Stack developer from Jalisco, México &#127474;&#127485;
+### A passionate Full Stack developer from Jalisco, México 🇲🇽
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<img align="right" height="280" width="380" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 📚 I attend the University of Xalapa a PhD in Software Sciences
-- 💻 I’m currently learning Django, Dockers
-- 🥅 2026 Goals: Greenhouse 4.0 - Internet of Things (IoT) Section
+- 📚 I attend the University of Xalapa for a **PhD in Software Sciences**
+- 💻 I’m currently learning **Django** & **Docker**
+- 🥅 **2026 Goals:** Greenhouse 4.0 - Internet of Things (IoT) Section
 
-#### Languages:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<br/>  
+<br>
 
-#### Frameworks/Platforms:
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
-<br/> 
+#### 🛠️ Languages & Containers:
+<p>
+  <img alt="Python" width="32px" src="https://skillicons.dev/icons?i=py" />
+  <img alt="PHP" width="32px" src="https://skillicons.dev/icons?i=php" />
+  <img alt="JavaScript" width="32px" src="https://skillicons.dev/icons?i=js" />
+  <img alt="Java" width="32px" src="https://skillicons.dev/icons?i=java" />
+  <img alt="Docker" width="32px" src="https://skillicons.dev/icons?i=docker" />
+</p>
 
-#### Data: 
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">  
-<br />
+#### ⚙️ Frameworks & Platforms:
+<p>
+  <img alt="Django" width="32px" src="https://skillicons.dev/icons?i=django" />
+  <img alt="Laravel" width="32px" src="https://skillicons.dev/icons?i=laravel" />
+  <img alt="NodeJS" width="32px" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="React" width="32px" src="https://skillicons.dev/icons?i=react" />
+</p>
 
-#### Tools:
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-<img align="left" alt="GCP" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
-<img align="left" alt="AWS" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />
-<br/ >
-<br/ >
+#### 🗄️ Databases:
+<p>
+  <img alt="SQLite" width="32px" src="https://skillicons.dev/icons?i=sqlite" />
+  <img alt="MySQL" width="32px" src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
+#### 🧰 Tools & Cloud:
+<p>
+  <img alt="Terminal" width="32px" src="https://skillicons.dev/icons?i=bash" />
+  <img alt="GitHub" width="32px" src="https://skillicons.dev/icons?i=github" />
+  <img alt="Git" width="32px" src="https://skillicons.dev/icons?i=git" />
+  <img alt="VS Code" width="32px" src="https://skillicons.dev/icons?i=vscode" />
+  <img alt="Jupyter" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img alt="GCP" width="32px" src="https://skillicons.dev/icons?i=gcp" />
+  <img alt="AWS" width="32px" src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-### Connect with me
+<br clear="right"/>
 
-[![Twitter: alkasaga](https://img.shields.io/twitter/follow/Alkasaga?style=social)](https://twitter.com/alkasaga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-MiguelSanabria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angel-sanabria-valdez-5a726b148)](https://www.linkedin.com/in/miguel-angel-sanabria-valdez-5a726b148)
+---
 
-![Miguel Sanabria's github stats](https://github-readme-stats.vercel.app/api?username=miguelsanabria-cualtos&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria-cualtos&layout=compact)](https://github.com/miguelsanabria-cualto/github-readme-stats)
+### 🌐 Connect with me
+
+[![X (Twitter)](https://img.shields.io/badge/X-@Alkasaga-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/alkasaga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Sanabria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-sanabria-valdez-5a726b148)
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelsanabria-cualtos&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Miguel Sanabria's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsanabria-cualtos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
