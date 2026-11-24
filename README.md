@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img align="right" height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
+  <img  height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
 </div>
 
 <br>
