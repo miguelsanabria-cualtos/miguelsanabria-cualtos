@@ -21,14 +21,14 @@
 <br>
 
 <div align="center">
-  <img  height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
+  <img height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
 </div>
 
 <br>
 
 ### 🔬 Current Focus & Research Lines
 
-- **🌱 Greenhouse 4.0 (IoT & Telemetry):** Sensor networks, microcontrollers, and real-time data monitoring for protected agriculture.
+- **🌱 Greenhouse 4.0 (IoT & Telemetry):** Sensor networks, microcontrollers, MQTT messaging, and real-time time-series monitoring (InfluxDB & Grafana) for protected agriculture.
 - **🎓 Software Sciences Research:** Applied software engineering, cyber-physical systems, and maintainable architectures.
 - **⚙️ Full Stack & DevOps:** Building containerized web platforms with Python/Django, Laravel, and cloud infrastructure.
 
@@ -54,12 +54,20 @@
   <img alt="React" width="34px" src="https://skillicons.dev/icons?i=react" />
 </p>
 
-#### IoT, Hardware & Databases
+#### IoT, Telemetry & Databases
 <p>
   <img alt="Arduino" width="34px" src="https://skillicons.dev/icons?i=arduino" />
   <img alt="Raspberry Pi" width="34px" src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img alt="InfluxDB" width="34px" src="https://skillicons.dev/icons?i=influxdb" />
+  <img alt="Grafana" width="34px" src="https://skillicons.dev/icons?i=grafana" />
   <img alt="MySQL" width="34px" src="https://skillicons.dev/icons?i=mysql" />
   <img alt="SQLite" width="34px" src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+<p>
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img alt="InfluxData" src="https://img.shields.io/badge/InfluxData-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Morpheus" src="https://img.shields.io/badge/Morpheus-00A8E8?style=for-the-badge&logo=cloud&logoColor=white" />
 </p>
 
 #### Cloud & Developer Tools
