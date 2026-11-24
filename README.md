@@ -21,7 +21,7 @@
 - 👨‍👩‍👧‍👦 Balancing research, clean code, good coffee, and family life in Los Altos de Jalisco
 
 <br>
-
+<img align="right" height="260" width="360" alt="Coding GIF" src="https://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif">
 ### 🔬 Current Focus & Research Lines
 
 - **🌱 Greenhouse 4.0 (IoT & Telemetry):** Sensor networks, microcontrollers, and real-time data monitoring for protected agriculture.
