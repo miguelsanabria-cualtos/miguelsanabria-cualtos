@@ -14,6 +14,8 @@
 
 <img align="right" height="280" width="360" alt="Developer Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<img align="right" height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
+
 - 📚 I attend the University of Xalapa for a **PhD in Software Sciences**
 - 💻 I’m currently learning **Django** & **Docker**
 - 🥅 **2026 Goals:** Greenhouse 4.0 - Internet of Things (IoT) Section
