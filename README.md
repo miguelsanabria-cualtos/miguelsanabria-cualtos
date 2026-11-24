@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img width="480" alt="Coding GIF" src="https://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif" />
+  <img align="right" height="260" width="360" alt="Coding GIF" src="https://giffiles.alphacoders.com/215/215911.gif">
 </div>
 
 <br>
